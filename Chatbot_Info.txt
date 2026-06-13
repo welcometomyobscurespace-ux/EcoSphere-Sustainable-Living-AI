@@ -1,0 +1,13 @@
+EcoSphere AI Assistant
+
+Built using Botpress.
+
+Features:
+• Food waste reduction guidance
+• Energy saving tips
+• Water conservation awareness
+• Recycling suggestions
+• Sustainable living recommendations
+
+Chatbot Link:
+https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/13/16/20260613160732-P22F4BPT.json
